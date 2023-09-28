@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RecyclerViewDialogDemo</string>
+    <string-array name="fruits_name">
+        <item>Strawberry</item>
+        <item>Mangosteen</item>
+        <item>Jackfruit</item>
+        <item>Dragon fruit</item>
+        <item>Papaya</item>
+        <item>Avocado</item>
+        <item>Watermelon</item>
+        <item>Grapefruit</item>
+        <item>Mango</item>
+        <item>Kiwi</item>
+        <item>Loquat</item>
+        <item>Lemon</item>
+        <item>Chinese persimmon</item>
+        <item>Pummelo</item>
+        <item>Rambutan</item>
+        <item>Banana</item>
+        <item>Rasberry</item>
+        <item>Peach</item>
+        <item>Lychee</item>
+        <item>Pear</item>
+        <item>Grape</item>
+        <item>Guava</item>
+        <item>Sugar apple</item>
+        <item>Pineapple</item>
+        <item>Blackberry</item>
+        <item>Starfruit</item>
+        <item>Durian</item>
+        <item>Passion-fruit</item>
+        <item>Wax apple</item>
+        <item>Orange</item>
+        <item>Longan</item>
+        <item>Apple</item>
+        <item>Cherry</item>
+        <item>Coconut</item>
+    </string-array>
+</resources>
